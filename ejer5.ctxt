@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ejer5
+comment0.text=\r\n\ Ejercicio\ 5\r\n\ \r\n\ El\ ejecutable\ para\ la\ creacion\ de\ un\ objeto\ de\ la\ clase\ Empleado,\ envia\ un\ mensaje\ al\ metodo\ mostrar\ y\r\n\ imprimir\ el\ dato\ de\ tipo\ String\ retornado\ por\ el\ metodo\ mostrar\ linea.\r\n\ Los\ datos\ ingresan\ por\ teclado\r\n\ \r\n\ @author\ Frowein\ Hugo\ Daniel\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

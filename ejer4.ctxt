@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ejer4
+comment0.text=\r\n\ Ejercicio\ 4\r\n\ El\ ejecutable\ para\ la\ creacion\ de\ un\ objeto\ de\ la\ clase\ Alumno,envia\ un\ mensaje\ al\ metodo\ setNota1,\ setNota2\ y\r\n\ a\ el\ metodo\ mostrar.\r\n\ Los\ datos\ ingresan\ por\ argumento\ de\ main()\r\n\ \r\n\ @author\ Frowein\ Hugo\ Daniel\r\n\ @param\ args[0]\ numero\ de\ libreta\ universitaria\r\n\ @param\ args[1]\ nombre\r\n\ @param\ args[2]\ apellido\r\n\ @param\ args[3]\ nota1\r\n\ @param\ args[4]\ nota2\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

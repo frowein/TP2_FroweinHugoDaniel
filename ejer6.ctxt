@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ejer6
+comment0.text=\r\n\ Ejecicio\ 6\r\n\ \r\n\ El\ ejecutable\ para\ la\ creacion\ de\ un\ objeto\ de\ la\ clase\ Punto,\ envia\ un\ mensaje\ al\ metodo\ mostrar,\r\n\ envia\ un\ mensaje\ a\ desplazar\ con\ datos\ nuevos\ y\ imprimir\ el\ dato\ de\ tipo\ String\ retornado\ \r\n\ por\ el\ metodo\ coordenada.\ Los\ datos\ ingresan\ por\ teclado.\r\n\ \r\n\ @author\ Frowein\ Hugo\ Daniel\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

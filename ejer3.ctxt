@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ejer3
+comment0.text=\r\n\ Ejercicio\ 3\r\n\ El\ ejecutable\ para\ la\ creacion\ de\ un\ objeto\ de\ la\ clase\ Cliente\ y\r\n\ envia\ un\ mensaje\ a\ el\ metodo\ mostrar.\r\n\ Los\ datos\ ingresan\ por\ argumento\ de\ main()\r\n\ \r\n\ @author\ Frowein\ Hugo\ Daniel\r\n\ @param\ args[0]\ numero\ de\ documento\r\n\ @param\ args[1]\ apellido\r\n\ @param\ args[2]\ nombre\r\n\ @param\ args[3]\ importe\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ejer2
+comment0.text=\r\n\ Ejercicio\ 2\r\n\ El\ ejecutable\ para\ la\ creacion\ de\ un\ objeto\ de\ la\ clase\ Laboratorio\ y\r\n\ envia\ un\ mensaje\ a\ el\ metodo\ mostrar.\r\n\ \r\n\ @author\ Frowein\ Hugo\ Daniel\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
