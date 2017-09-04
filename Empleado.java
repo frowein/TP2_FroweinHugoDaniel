@@ -84,14 +84,14 @@ public class Empleado{
      * El metodo antiguedad determina los años de antiguedad calculando
      * el año actual menos el año de ingreso
      * 
-     * @return Año de antuguedad de tipo int
+     * @return Año de antuguedad
      */
     public int antiguedad(){
         return this.year() - this.getAnio();
     }
     
     /**
-     * El metodo descuento retorna el 2% del sueldo basico mas 12
+     * El metodo descuento retorna el 2% del suldo basico mas 12
      * 
      * @return descuento del 2% + 12
      */
